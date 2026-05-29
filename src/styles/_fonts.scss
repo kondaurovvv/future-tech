@@ -1,1 +1,64 @@
+/* INTER */
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/inter-latin-regular.woff2') format('woff2'),
+    url('/fonts/inter-latin-regular.woff') format('woff');
+}
 
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/fonts/inter-latin-500.woff2') format('woff2'),
+    url('/fonts/inter-latin-500.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/fonts/inter-latin-600.woff2') format('woff2'),
+    url('/fonts/inter-latin-600.woff') format('woff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/inter-latin-700.woff2') format('woff2'),
+    url('/fonts/inter-latin-700.woff') format('woff');
+}
+
+/* KUMBH SANS */
+@font-face {
+  font-display: swap;
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/kumbh-sans-latin-regular.woff2') format('woff2'),
+    url('/fonts/kumbh-sans-latin-regular.woff') format('woff'),
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/fonts/kumbh-sans-latin-500.woff2') format('woff2'),
+    url('/fonts/kumbh-sans-latin-500.woff') format('woff'),
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Kumbh Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/fonts/kumbh-sans-latin-600.woff2') format('woff2'),
+    url('/fonts/kumbh-sans-latin-600.woff') format('woff'),
+}
